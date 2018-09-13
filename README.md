@@ -5,9 +5,10 @@ Rest API to solve a coding task for BUD tech test
 
 This is a two part task, which should take you a maximum of 2 hours to complete. Frameworks are optional. Code without frameworks is preferred.
 When you have completed the task, please send via a Zip files or Github link to ​talent@thisisbud.com​ with the title “COMPLETED TASK - PHP - ​*insert your name*​”
-Task Part 1 (page 2) - API Consumption.
+
+### Task Part 1 (page 2) - API Consumption.
 In this task we are looking to see how you would connect to the API given the specifications in the below documentation.
-Task Part 2 (page 3) - Data Processing.
+### Task Part 2 (page 3) - Data Processing.
 In this task we are interested to understand your approach to OOP and Unit Testing.
  
 ## Task Part 1.
